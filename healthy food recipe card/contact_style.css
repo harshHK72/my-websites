@@ -1,0 +1,70 @@
+
+section{
+    /* display: grid; */
+    margin: 5rem;
+    margin-left: 10rem;
+    margin-top: 10rem;
+    border: 0.9px solid black;
+    padding: 12rem; 
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    border-radius: 25px 25px;
+    background-image: linear-gradient(to top, #3cff00, #00ff88, #00ffca, #73fff3, #c4fdff, #c9f6ff, #e2eaff, #ffdefe, #ffc0e4, #ffa1b2, #ff8d6c, #ff8c00);
+
+}
+body{
+    background-image: radial-gradient(circle, #00fffb, #00ffec, #00ffd8, #00ffc2, #00ffa8, #00ebaf, #00d6b0, #00c1ad, #0090a0, #005f84, #003159, #040128);
+
+}
+#d1{
+    margin: 5px;
+    padding: 6px;
+    border: 0.4 solid rgb(190, 190, 190);
+}
+
+#d2{
+    margin: 5px;
+    padding: 6px;
+    border: 0.4 solid rgb(190, 190, 190);
+}
+
+#d3{
+    margin: 5px;
+    padding: 6px;
+    border: 0.4 solid rgb(190, 190, 190);
+}
+
+#d4{
+    margin: 5px;
+    padding: 6px;
+    border: 0.4 solid rgb(190, 190, 190);
+}
+
+#d5{
+    margin: 5px;
+    padding: 6px;
+    border: 0.4 solid rgb(190, 190, 190);
+}
+
+#d6{
+    margin: 5px;
+    padding: 6px;
+    border: 0.4 solid rgb(189, 189, 189);
+    border-radius: 30px 60px;
+}
+.bth{
+    background-color:rgb(101, 211, 255) ;
+    border-radius: 40px 40px;
+    text-shadow: 2px 3px 3px rgb(255, 252, 252);
+}
+.bth:hover{
+    background-image: linear-gradient(to right top, #001d48, #004d80, #0081a9, #00b7b8, #12ebb1);
+    color: white;
+    border-radius: 40px 40px;
+    text-shadow: 2px 3px 3px black;   
+}
+button{
+    border: 1px solid black;
+    border-radius: 30px 60px;
+    
+}

@@ -1,0 +1,46 @@
+#about {
+    background-color: rgb(4, 4, 41);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .about-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  #about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #22d404;
+  }
+  
+  #about p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+button{
+    border-radius: 10px 10px ; 
+    background-color: aquamarine;
+   
+}  
+button:hover{
+    border-radius: 10px 10px ; 
+    background-image: linear-gradient(to right top, #00b6ff, #00a9ff, #449aff, #7586ff, #a16cff, #a961ff, #b255ff, #bc45ff, #9c57ff, #7a64ff, #516dff, #0073ff);
+
+}
+a{
+    color: rgb(54, 54, 54);
+    text-decoration-line: none;
+    text-shadow: 1px 2px 5px #0e0255;
+}
+a:hover{
+    color: white;
+    text-shadow:2px 3px 3px black;
+}
+body{
+    background-image: radial-gradient(circle, #00b6ff, #00c6fb, #00d2e5, #00dbbe, #00e08e, #00cf8b, #00bf86, #00ae81, #008487, #005879, #002f56, #040128);
+
+}
